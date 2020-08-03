@@ -1,2 +1,5 @@
 # hello-github
-First class of using GITHUB
+
+Hi All!
+
+I'm Frank. I like Python and MySQL
